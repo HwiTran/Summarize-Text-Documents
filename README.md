@@ -7,5 +7,7 @@ I noticed that some of my friends were having problems finding scientific papers
 So that is the motivation for me to make scientific research more accessible and efficient.  
 This project maybe is:
 * QA bot: You put the paper into the web, ask some questions about that paper, and the bot will answer them directly based on the content.
-* Summarization tool: Like the name and generate wordcloud keywork  
+* Summarization tool: Like the name and generate wordcloud keywork
+
+  
 I will update something more...
