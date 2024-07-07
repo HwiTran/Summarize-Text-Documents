@@ -6,13 +6,13 @@
 
 The repository is organized into the following directories:
 
-- **/data**: This directory contains the facial expression dataset. You'll need to download the dataset and place it here before running the notebooks. (Download link provided below)
-- **/notebooks**: This directory contains the Jupyter notebook ```EDA.ipynb```. This notebook guides you through exploratory data analysis (EDA) and classification tasks.
+- **/data**: This directory contains the dataset. It's includes raw dataset and preprocessed dataset.
+- **/Slide**: This directory contains the slide I use for prepresent this project in final report.
 
 ## 🎯 Purpose
 
 ## 🗂️ Dataset
-
+The raw dataset comprises 255 samples of information's laptop available at store.
 ## 🛠️ Methodology
 
 ## ✅ The result
