@@ -13,6 +13,8 @@ The repository is organized into the following directories:
 
 ## 🗂️ Dataset
 The raw dataset comprises 255 samples of information's laptop available at store.
+![image](https://github.com/HwiTran/RAG-FOR-PRODUCT-CONSULTING/assets/96429096/73c60a08-28af-440b-a912-df3ec948e4ca)
+
 ## 🛠️ Methodology
 
 ## ✅ The result
