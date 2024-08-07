@@ -7,9 +7,9 @@
 The repository is organized into the following directories:
 
 - **/data**: This directory contains the dataset. It's includes raw dataset and preprocessed dataset.
-- **/Slide**: This directory contains the slide I use for prepresent this project in final report.
-- **/Notebooks**:
-- **/App**:
+- **/Slide**: This directory contains the slide I used for prepresent this project in final report.
+- **/Notebooks**:  This directory contains ''RAG_for_Product_Consulting.ipynb''' which I preprocessed data and perform Vector Search on User Queries in.
+- **/App**: This directory contains some files for the UI by using streamlit.
 
 ## 🎯 Purpose
 This project is the final capstone project for the NLP course at HCMUS (Spring 2024).
