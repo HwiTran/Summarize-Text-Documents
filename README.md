@@ -8,6 +8,8 @@ The repository is organized into the following directories:
 
 - **/data**: This directory contains the dataset. It's includes raw dataset and preprocessed dataset.
 - **/Slide**: This directory contains the slide I use for prepresent this project in final report.
+- **/Notebooks**:
+- **/App**:
 
 ## 🎯 Purpose
 This project is the final capstone project for the NLP course at HCMUS (Spring 2024).
