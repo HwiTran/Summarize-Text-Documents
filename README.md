@@ -20,22 +20,22 @@ This dataset was scraped from the Hoanghamoblie using the Instant Data Scraper t
 The raw dataset comprises 255 samples of information's laptop available at store.
 - img href:
 - img src: 
-- v5-item:
+- v5-item: Device's name
 - price-offer: Sale price
 - price-offer 2: Sale price
 - price-tradein: Trade-in discount
 - price-tradein 2: Trade-in discount
 - price: Manufacturer's Suggested Retail Price (MSRP)
 - price 2: Sale price
-- specs: CPU
-- specs 2: RAM
-- specs 3: Storage
+- specs: Processor
+- specs 2: RAM memory
+- specs 3: HD capacity
 - specs 4: GPU
-- specs 5: 
-- specs 6:
-- specs 7:
-- specs 8
-- promotion: 
+- specs 5: Screen size
+- specs 6: Aspect atio
+- specs 7: Refresh rates
+- specs 8: Weight
+- promotion: promotion day 
 ![image](https://github.com/HwiTran/RAG-FOR-PRODUCT-CONSULTING/assets/96429096/73c60a08-28af-440b-a912-df3ec948e4ca)
 
 ## 🛠️ Methodology
