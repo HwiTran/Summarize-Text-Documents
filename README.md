@@ -41,5 +41,5 @@ The raw dataset comprises 255 samples of information's laptop available at store
 ## 🛠️ Methodology
 
 ## ✅ The result
+![image](https://github.com/user-attachments/assets/cb7373f9-9504-4c30-83aa-42fe864e26fa)
 
-## 🔜 The future work
